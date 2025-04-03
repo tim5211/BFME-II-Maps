@@ -11,8 +11,10 @@ To install or uninstall maps, you'll need **Tim's BFME II Map Manager** download
 
 ## 📁 How to Use
 
-1. **Download** one or more map `.packed` files from this repository.
+1. **Download** one or more map `.packed` or `.zip` files from this repository.
+
 2. **Place** them in the **same folder** as `Tim's BFME II Map Manager.exe`.
+  
 3. Launch the map manager to **install or uninstall** maps.
 
 ---
